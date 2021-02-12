@@ -7,3 +7,6 @@ We are introduced to James.
 Very interesting individual.
 Likes peanuts.
 Both the comic and the food.
+
+James has a third eye.
+It mostly sees smell.
